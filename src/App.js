@@ -35,7 +35,7 @@ function App() {
 
   return (
     <div className="form-container">
-      <h3>React Forms validation using Formik and yup</h3>
+      <h3>React Form validation using Formik and yup</h3>
       <form onSubmit={formik.handleSubmit}>
         <div className="form-group">
           <label>Name</label>
